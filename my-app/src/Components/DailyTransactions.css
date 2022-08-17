@@ -1,0 +1,25 @@
+.dailyBalanceWrapper{
+    width: 100%;
+    max-width: 300px;
+    margin: 0px auto;
+}
+.dailyBalancesRowHeader {
+    background-color: #404040;
+    color:#fff;
+    display: flex;
+    border: 1px solid #404040;
+    padding: 12px 8px;
+}
+.dailyBalancesRow{
+    display: flex;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.dailyBalanceRowLeft{
+    width: 50%
+}
+
+.dailyBalanceRowRight{
+    width: 50%
+}
